@@ -57,7 +57,7 @@ window.options.colorPallet = {
         e.ctx.fillStyle = colors[i]
       })
     })
-    
+
     return element
   }
 }
